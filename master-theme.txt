@@ -1,0 +1,15 @@
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#CC4141',
+      'primaryTextColor': '#fff',
+      'lineColor': '#CC4141',
+      'secondaryColor': '#AAAAAA',
+      'tertiaryColor': '#797979',
+      'noteBkgColor': '#333333',
+      'noteTextColor': '#fff',
+      'sequenceNumberColor': '#333333'
+    }
+  }
+}%%

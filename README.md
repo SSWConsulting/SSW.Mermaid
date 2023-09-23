@@ -1,6 +1,6 @@
 # SSW.Mermaid
 
-SSW branded Mermaid.js theme.  
+SSW branded [Mermaid](https://mermaid.js.org/) theme.  
 
 > **Note**
 > Currently only supports Darkmode.

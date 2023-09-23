@@ -10,6 +10,5 @@ Can be found [here](https://github.com/SSWConsulting/SSW.Mermaid/blob/main/maste
 
 ## Examples
 
-- [Sequence Diagram]()
-- [Flowchart]()
-
+- [Sequence Diagram](https://github.com/SSWConsulting/SSW.Mermaid/blob/main/examples/sequence.md)
+- [Flowchart](https://github.com/SSWConsulting/SSW.Mermaid/blob/main/examples/flowchart.md)

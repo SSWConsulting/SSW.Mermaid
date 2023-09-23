@@ -2,7 +2,8 @@
 
 SSW branded Mermaid.js theme.  
 
-> **Note** Currently only supports Darkmode.
+> **Note**
+> Currently only supports Darkmode.
 
 ## Master Theme
 

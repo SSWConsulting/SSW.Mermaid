@@ -15,10 +15,9 @@
     }
   }
 }%%
-
-graph TD;
-    S(Start)-->A(Option 1);
-    S-->B(Option 2);
-    B-->F(Finish);
-    A-->F;
+graph TD
+    S(Start) --> A(Option 1);
+    S --> B(Option 2);
+    B --> F(Finish);
+    A --> F;
 ```
